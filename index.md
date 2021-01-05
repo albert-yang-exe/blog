@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
 <head>
 <title>albert alert</title>
@@ -13,5 +12,6 @@ I am so confused
 Oh jeez this website is confusing
 i'm still making this website calm down guapo.</p>
 
+<h3> this aint a fluke is it? </h3>
 </body>
 </html>
