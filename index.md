@@ -1,9 +1,14 @@
-## Welcome to GitHub Pages
+## Albert Yang
+hi my name is albert. here you can see short things i write, things i draw, how my day was. just random things that don't affect you what so ever. 
+this website is for me, so most of this you'll find very insignifigant and boring. shut up i didnt ask.
 
-You can use the [editor on GitHub](https://github.com/ctrl-albert-yang/ctrl-shift-alb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+### entry 1. 2021-01-05 i have no ideas what is going on
+```
+this thing does not make any sense to me.
+I am so confused
+Oh jeez this website is confusing
+i'm still making this website calm down guapo.
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
