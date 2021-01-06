@@ -13,8 +13,8 @@ body {
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>albert alert</title>
+<img src="htmlBook0" alt="htmlBook0" usemap="#workmap" style="width:100%;height:100%;>
 </head>
-<body>
-	<img src="htmlBook0" alt="htmlBook0" usemap="#workmap" style="width:1080px;height:720px;>
+<body>	
 </body>
 </html>
