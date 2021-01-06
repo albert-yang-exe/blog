@@ -7,11 +7,9 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  :hover 
-  {
-    background: url("htmlBook1 - copy.png") no-repeat;
-  }
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
 }
+<a style="display:block; height:100px; width:100px">click anywere!</a>
 
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
