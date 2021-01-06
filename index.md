@@ -15,7 +15,6 @@ body {
 <title>albert alert</title>
 </head>
 <body>
-		<img src="htmlBook0.png" alt="htmlBook0" style="width:1280px;height:720px;>
-
+		<img src='htmlBook0.png' alt="htmlBook0" style="width:1280px;height:720px";>
 </body>
 </html>
