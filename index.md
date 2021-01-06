@@ -2,6 +2,12 @@
 <html>
 <head>
 <style>
+img {
+  width: 100%;
+  height: 100%;
+}
+</style>
+<style>
 body {
 
 	background-image: url('htmlBook0.png');
