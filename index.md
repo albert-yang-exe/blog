@@ -4,6 +4,9 @@
 <style>
 body {
   background-image: url('htmlBook0.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
