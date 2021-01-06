@@ -22,8 +22,10 @@ body {
 </head>
 <body>
 		<img src='htmlBook0.png' alt="htmlBook0" id = "book0">
-#book0:hover {
-    content: url('htmlBook1.png');
-}
+		<map name="planetmap">
+		<area shape="circle" coords="500,400,200" alt="rectangle1"
+        onmouseover="document.getElementById('book0').src='htmlBook1.png'" 
+        onmouseout="document.getElementById('book0').src='htmlBook0.png'"/>
+</map>
 </body>
 </html>
