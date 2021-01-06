@@ -15,6 +15,6 @@ body {
 <title>albert alert</title>
 </head>
 <body>
-		<img src='htmlBook0.png' alt="htmlBook0">
+		<img src='htmlBook1.png' alt="htmlBook0">
 </body>
 </html>
